@@ -1,5 +1,4 @@
-Exercise One - Design Recipe
-# {{PROBLEM}} Function Design Recipe
+# {Exercise One} Function Design Recipe
 
 ## 1. Describe the Problem
 
@@ -49,5 +48,5 @@ estimate_reading_time(""):
 
 ## 4. Implement the Behaviour
 
-
+_After each test you write, follow the test-driving process of red, green, refactor to implement the behaviour._
 Ensure all test function names are unique, otherwise pytest will ignore them!
