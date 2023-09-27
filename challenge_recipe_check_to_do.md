@@ -1,4 +1,4 @@
-# {Exercise Two} Function Design Recipe
+# {Challenge} Function Design Recipe
 
 ## 1. Describe the Problem
 
