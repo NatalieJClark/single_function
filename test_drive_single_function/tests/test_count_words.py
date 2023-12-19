@@ -12,7 +12,7 @@ def test_given_empty_string_returns_zero():
 Given a string with three words
 It returns 3
 """
-def test_given_one_word_returns_1():
+def test_given_three_words_returns_3():
     result = count_words("one two three")
     assert result == 3
 
@@ -20,7 +20,7 @@ def test_given_one_word_returns_1():
 Given a string with four words with punctuation
 It returns 4
 """
-def test_given_one_word_returns_1():
+def test_given_four_words_returns_4():
     result = count_words("one, two, three, four.")
     assert result == 4
 
@@ -28,6 +28,6 @@ def test_given_one_word_returns_1():
 Given a string with five words delimited by commas
 It returns 1
 """
-def test_given_one_word_returns_1():
+def test_given_five_words_delimited_by_commas_returns_1():
     result = count_words("one,two,three,four,five")
     assert result == 1

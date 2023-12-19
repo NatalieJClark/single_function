@@ -1,4 +1,4 @@
-# {{PROBLEM}} Function Design Recipe
+# {{PROBLEM}} Single Function Design Recipe
 
 Copy this into a `recipe.md` in your project and fill it out.
 
